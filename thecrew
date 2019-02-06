@@ -4,6 +4,7 @@
   <h1>The Crew</h1>
   <div>
     <h2>Solan Siva (Ape)</h2>
+    <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" alt="A Brown Bear"/>
   </div>
 </body>
 </html>
